@@ -1,0 +1,24 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/other-interstitial-pulmonary-diseases-with-fibrosis---primary.py
+inputModule3:
+  class: File
+  path: python/other-interstitial-pulmonary-diseases-with-fibrosis-alveolitis---primary.py
+inputModule4:
+  class: File
+  path: python/idiopathic-other-interstitial-pulmonary-diseases-with-fibrosis---primary.py
+inputModule5:
+  class: File
+  path: python/fibrosis---primary.py
+inputModule6:
+  class: File
+  path: python/other-interstitial-pulmonary-other-interstitial-pulmonary-diseases-with-fibrosis-fibrosis---secondary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
